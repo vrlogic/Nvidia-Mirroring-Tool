@@ -1,0 +1,8 @@
+﻿  WarpBlendSample.cpp
+c:\users\vrlogic\documents\warpblendsample\warpblendsample.cpp(78): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\vrlogic\documents\warpblendsample\warpblendsample.cpp(148): warning C4244: "Initialisierung": Konvertierung von "NvS32" in "float", möglicher Datenverlust
+c:\users\vrlogic\documents\warpblendsample\warpblendsample.cpp(187): warning C4244: "Initialisierung": Konvertierung von "NvS32" in "float", möglicher Datenverlust
+c:\users\vrlogic\documents\warpblendsample\warpblendsample.cpp(188): warning C4244: "Initialisierung": Konvertierung von "NvS32" in "float", möglicher Datenverlust
+WarpBlendSample.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /INCREMENTAL:NO ignoriert.
+  WarpBlendSample.vcxproj -> C:\Users\vrlogic\Documents\WarpBlendSample\bin\Debug\Win32\WarpBlendSample.exe
+  WarpBlendSample.vcxproj -> bin\Debug\Win32\WarpBlendSample.pdb (Full PDB)
